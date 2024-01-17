@@ -1,0 +1,25 @@
+<h1>Real time updated products</h1>
+
+<div id="productsContainer"></div>
+
+<h2>Form to add products </h2>
+
+<form id="form">
+  <input type="text" id="title" placeholder="Title" />
+  <input type="text" id="description" placeholder="Description" />
+  <input type="number" id="price" placeholder="Price" />
+  <input type="text" id="img" value="No Image" />
+  <input type="text" id="code" placeholder="Códe" />
+  <input type="number" id="stock" placeholder="Stock" />
+  <input type="text" id="category" placeholder="Category" />
+  <select id="status">
+    <option value="true">Active</option>
+    <option value="false">Inactive</option>
+  </select>
+  <button type="button" id="sendButton">Send</button>
+</form>
+
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"
+></script>
+<script src="js/index.js"></script>

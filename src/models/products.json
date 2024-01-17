@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Bicicleta UNO",
+    "description": "fixed",
+    "price": 5050,
+    "img": "sin imagen",
+    "code": "1",
+    "stock": 103,
+    "status": true,
+    "category": "bicicleta"
+  },
+  {
+    "id": 2,
+    "title": "Bicicleta DOS",
+    "description": "Single speed",
+    "price": 5050,
+    "img": "sin imagen",
+    "code": "2",
+    "stock": 103,
+    "status": true,
+    "category": "bicicleta"
+  },
+  {
+    "id": 3,
+    "title": "Bici 3",
+    "description": "single speed",
+    "price": "1110000",
+    "img": "No Image",
+    "code": "454645",
+    "stock": "10",
+    "status": true,
+    "category": "bici"
+  },
+  {
+    "id": 4,
+    "title": "bici 4",
+    "description": "single speed",
+    "price": "12121221",
+    "img": "No Image",
+    "code": "4",
+    "stock": "43",
+    "status": true,
+    "category": "Bikes"
+  }
+]
